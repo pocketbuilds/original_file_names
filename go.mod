@@ -5,7 +5,7 @@ go 1.23
 toolchain go1.23.2
 
 require (
-	github.com/PocketBuilds/xpb v0.0.0-20250808164915-313274c13732
+	github.com/PocketBuilds/xpb v0.0.0-20250811171537-c6356e3d3df9
 	github.com/pocketbase/pocketbase v0.23.0
 )
 
