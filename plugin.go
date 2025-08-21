@@ -1,9 +1,9 @@
 package original_file_names
 
 import (
-	"github.com/PocketBuilds/xpb"
 	"github.com/pocketbase/pocketbase/core"
 	"github.com/pocketbase/pocketbase/tools/hook"
+	"github.com/pocketbuilds/xpb"
 )
 
 func init() {
