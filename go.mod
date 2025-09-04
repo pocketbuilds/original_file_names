@@ -6,7 +6,7 @@ toolchain go1.23.2
 
 require (
 	github.com/pocketbase/pocketbase v0.23.0
-	github.com/pocketbuilds/xpb v0.0.2-0.20250821190501-67cd05d3c02e
+	github.com/pocketbuilds/xpb v0.0.2
 )
 
 require (
