@@ -1,4 +1,4 @@
-# Case Insensitive Emails
+# Original File Names
 
 An [xpb](https://github.com/pocketbuilds/xpb) plugin for [Pocketbase](https://pocketbase.io/) keeps original uploaded filenames.
 
