@@ -1,8 +1,8 @@
 package original_file_names
 
 import (
-	"github.com/pocketbase/pocketbase/core"
-	"github.com/pocketbase/pocketbase/tools/hook"
+	"ganigeorgiev.com/pocketbase/pocketbase/core"
+	"ganigeorgiev.com/pocketbase/pocketbase/tools/hook"
 	"github.com/pocketbuilds/xpb"
 )
 
@@ -42,7 +42,7 @@ func (p *Plugin) Init(app core.App) error {
 	return nil
 }
 
-// https://github.com/pocketbase/pocketbase/discussions/2787
+// https://ganigeorgiev.com/pocketbase/pocketbase/discussions/2787
 func (p *Plugin) keepOriginalFilenames(e *core.RecordRequestEvent) error {
 	for _, field := range e.Collection.Fields {
 		if field.Type() != core.FieldTypeFile {

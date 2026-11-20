@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/pocketbase/pocketbase"
+	"ganigeorgiev.com/pocketbase/pocketbase"
 	plugin "github.com/pocketbuilds/original_file_names"
 )
 
